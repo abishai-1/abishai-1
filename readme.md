@@ -10,13 +10,11 @@ Currently exploring the intersection of **Web Development × Design × 3D × AI*
 
 ## 🧠 About Me
 
-* 💻 Building web experiences and digital products
-* 🎨 Design Lead @ **E-Cell, Raghu Engineering College**
-* 🚀 Building **ZWEN** — a creative digital agency
-* 🌐 Exploring interactive 3D experiences with **Three.js & Blender**
-* 🤖 Experimenting with AI-assisted development & creative workflows
-* 🏆 Always down for hackathons, competitions & crazy ideas
-* 🎓 Computer Science student
+I'm an **ECE student** who enjoys exploring the space between **technology and creativity**. I work across software development, digital design, and interactive experiences, and I love turning ideas into things that actually work.
+
+I’m always experimenting, learning, and building — whether it’s code, visuals, or something somewhere in between.
+
+🌐 **Portfolio:** [aio.engineer](https://aio.engineer)
 
 ---
 
