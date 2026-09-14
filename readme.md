@@ -2,7 +2,7 @@
 
 ### Creative Developer • Designer • Builder
 
-I like turning ideas into **interactive experiences** — blending code, design, 3D, and AI to build things that don't just work, but feel good to use.
+I like turning ideas into **interactive experiences** - blending code, design, 3D, and AI to build things that don't just work, but feel good to use.
 
 Currently exploring the intersection of **Web Development × Design × 3D × AI**.
 
@@ -12,7 +12,7 @@ Currently exploring the intersection of **Web Development × Design × 3D × AI*
 
 I'm an **ECE student** who enjoys exploring the space between **technology and creativity**. I work across software development, digital design, and interactive experiences, and I love turning ideas into things that actually work.
 
-I’m always experimenting, learning, and building — whether it’s code, visuals, or something somewhere in between.
+I’m always experimenting, learning, and building - whether it’s code, visuals, or something somewhere in between.
 
 🌐 **Portfolio:** [aio.engineer](https://aio.engineer)
 
