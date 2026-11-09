@@ -38,6 +38,11 @@ I’m always experimenting, learning, and building - whether it’s code, visual
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
+### 📱 Mobile App Development
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 ### ⚙️ Backend & Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
